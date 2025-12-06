@@ -490,9 +490,7 @@ export default function PremiumGynoClinic() {
             Your Health,<br />
             <span className="bg-gradient-to-r from-yellow-300 to-pink-300 bg-clip-text text-transparent">Our Priority</span>
           </h1>
-          <p className="text-lg sm:text-xl md:text-2xl mb-8 sm:mb-12 text-pink-100 max-w-3xl mx-auto">
-            Experience compassionate, cutting-edge care for women at every stage of life
-          </p>
+
           <button className="px-6 sm:px-8 md:px-10 py-3 sm:py-4 md:py-5 bg-white text-purple-600 rounded-full font-bold text-base sm:text-lg hover:scale-105 transition-all shadow-2xl">
             <span className="flex items-center gap-2">
               <Calendar className="w-4 h-4 sm:w-5 sm:h-5" /> Book Appointment
